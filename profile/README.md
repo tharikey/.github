@@ -5,10 +5,8 @@
   </picture>
 </p>
 
-<p align="center"><em>Bringing sanity to Thaana input across the board.</em></p>
-
 <p align="center">
-  🌐 <a href="https://tharikey.com"><strong>tharikey.com</strong></a> &nbsp;·&nbsp; <em>launching soon</em>
+  🌐 <a href="https://tharikey.com"><strong>tharikey.com</strong></a>
 </p>
 
 ---
